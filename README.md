@@ -1,13 +1,3 @@
-# Gooey Pie
+# GooeyPie
 
-Gooey Pie is a minimalist, opinionated GUI library for Python designed for beginner users of Python.
-
-## Installation
-
-You can install GooeyPie from [PyPI](https://pypi.org/project/gooeypie/):
-
-    pip install gooeypie
-
-## How to use
-
-A getting started guide, full documentation and examples can be found at https://www.gooeypie.dev/
+**⚠️ This repository is for GooeyPie v0.13.0 (Legacy). This version is no longer actively maintained. For the brand-new, rebuilt version of GooeyPie featuring a modern look and improved event handling, visit our updated documentation at [gooeypie.dev](https://gooeypie.dev).**
